@@ -1,0 +1,60 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:109.0) Gecko/20100101 Firefox/115.0" version="29.2.7">
+  <diagram name="Page-1" id="vXeLz_8Yg8F2iqbamkFu">
+    <mxGraphModel dx="1563" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h1oARWJw8Op2wEbNWEma-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Tamera&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="h1oARWJw8Op2wEbNWEma-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Am I ready to book a ticket to NZ? &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="h1oARWJw8Op2wEbNWEma-5" edge="1" parent="1" source="h1oARWJw8Op2wEbNWEma-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="h1oARWJw8Op2wEbNWEma-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h1oARWJw8Op2wEbNWEma-10" edge="1" parent="1" source="h1oARWJw8Op2wEbNWEma-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="h1oARWJw8Op2wEbNWEma-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h1oARWJw8Op2wEbNWEma-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Will booking ticket to NZ cause more bad consequences than good? " vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="h1oARWJw8Op2wEbNWEma-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1" value="&lt;div&gt;Good consequences: &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="h1oARWJw8Op2wEbNWEma-8" edge="1" parent="1" source="h1oARWJw8Op2wEbNWEma-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="h1oARWJw8Op2wEbNWEma-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h1oARWJw8Op2wEbNWEma-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Is the timing as good as it can be? " vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="h1oARWJw8Op2wEbNWEma-7" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="I think so! !!!!!" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="h1oARWJw8Op2wEbNWEma-11" edge="1" parent="1" source="h1oARWJw8Op2wEbNWEma-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h1oARWJw8Op2wEbNWEma-9" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;Nick&#39;s warnings&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;• About employers&lt;/div&gt;&lt;div&gt;• about respect for him &lt;br&gt;&lt;/div&gt;&lt;div&gt;* Ideal job &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="-60" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="h1oARWJw8Op2wEbNWEma-12" parent="1" style="whiteSpace=wrap;html=1;" value="i&#39;m worried you might have misread what I said" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="h1oARWJw8Op2wEbNWEma-15" edge="1" parent="1" source="h1oARWJw8Op2wEbNWEma-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="h1oARWJw8Op2wEbNWEma-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h1oARWJw8Op2wEbNWEma-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Who to decide with? " vertex="1">
+          <mxGeometry height="30" width="60" x="470" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="h1oARWJw8Op2wEbNWEma-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Who to decide with? " vertex="1">
+          <mxGeometry height="30" width="60" x="470" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="h1oARWJw8Op2wEbNWEma-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;div&gt;Saturday morning NZ &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Wednesday morning NZ&lt;/div&gt;&lt;div&gt;Tuesday night UK &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="110" x="-20" y="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
